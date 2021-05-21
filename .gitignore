@@ -50,3 +50,14 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# macOS System file
+.DS_store
+.vscode
+.idea
+
+build
+bin
+info.log
+dnsRelay
+host
